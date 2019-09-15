@@ -1,0 +1,21 @@
+﻿@model IEnumerable<PaymentModel>
+@{
+   ViewData["Title"] = "Payments";
+}
+
+    <table class="table table-bordered table-responsive table-hover">
+        <tr>
+            <th>Id</th>
+            <th>Name </th>
+            <th>Monthly Credit Limit</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.TransactionDate</td>
+                <td>@item.Amount</td>
+            </tr>
+        }
+    </table>
+

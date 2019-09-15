@@ -1,0 +1,22 @@
+﻿@model IEnumerable<AccountModel>
+
+@{
+    ViewData["Title"] = "Bank Accounts";
+}
+
+<table class="table table-bordered table-responsive table-hover">
+    <tr>
+        <th>Id</th>
+        <th>Name </th>
+        <th>Monthly Credit Limit</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.MonthlyCreditLimit</td>
+        </tr>
+    }
+</table>
+

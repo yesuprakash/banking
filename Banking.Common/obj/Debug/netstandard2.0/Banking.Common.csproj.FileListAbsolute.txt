@@ -1,0 +1,9 @@
+D:\CoreWork\Banking\Banking\Banking.Common\obj\Debug\netstandard2.0\Banking.Common.csprojAssemblyReference.cache
+D:\CoreWork\Banking\Banking\Banking.Common\obj\Debug\netstandard2.0\Banking.Common.csproj.CoreCompileInputs.cache
+D:\CoreWork\Banking\Banking\Banking.Common\obj\Debug\netstandard2.0\Banking.Common.AssemblyInfoInputs.cache
+D:\CoreWork\Banking\Banking\Banking.Common\obj\Debug\netstandard2.0\Banking.Common.AssemblyInfo.cs
+D:\CoreWork\Banking\Banking\Banking.Common\bin\Debug\netstandard2.0\Banking.Common.deps.json
+D:\CoreWork\Banking\Banking\Banking.Common\bin\Debug\netstandard2.0\Banking.Common.dll
+D:\CoreWork\Banking\Banking\Banking.Common\bin\Debug\netstandard2.0\Banking.Common.pdb
+D:\CoreWork\Banking\Banking\Banking.Common\obj\Debug\netstandard2.0\Banking.Common.dll
+D:\CoreWork\Banking\Banking\Banking.Common\obj\Debug\netstandard2.0\Banking.Common.pdb
